@@ -20,10 +20,12 @@ This research serves as a discrete dynamical sequence companion to computational
 
 2. **Part II: Updated Sequence Census (186 Letters)**
    * Focus: Activating Old South Arabian epigraphic names ($\phi^2$), Ge'ez 34-character base ($1+\sqrt{2}$ Pell collapse), and Georgian 15-group partition.
+   * Permanent Zenodo DOI: [10.5281/zenodo.24115627](https://doi.org/10.5281/zenodo.24309286)
    * File: `papers/EOA_Part_II_Updated_Census.pdf`
 
-3. **Summary Report: Comparison Across Three Iterations**
+4. **Summary Report: Comparison Across Three Iterations**
    * Focus: Systematic sensitivity analysis (atomic vs. native syllabic vs. standardized Latin transliteration).
+   * Permanent Zenodo DOI: [10.5281/zenodo.24115627](https://doi.org/10.5281/zenodo.24310519)
    * File: `papers/EOA_Ancient_Writing_Systems_Summary_Report.pdf`
 
 ---
