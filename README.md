@@ -33,7 +33,7 @@ This research serves as a discrete dynamical sequence companion to computational
 ## Summary of Findings
 
 | Script | Letters ($N$) | Part I Baseline | Part II Syllabic | Transliterated Run | Primary Invariant / Growth ($\lambda$) |
-| :--- | :---: | :--- | :--- | :--- | :--- |
+| :--- | :---: | :---- | :--- | :--- | :--- |
 | **Caucasian Albanian** | 52 | 49 groups | 49 groups | 49 groups | Invariant web ($\lambda \approx 2.956080$) |
 | **Georgian (Mkhedruli)** | 33 | 11 groups | 15 groups | 15 groups | Unified cubic core ($\lambda \approx 2.521380$) |
 | **Old South Arabian** | 29 | Flatline ($1, 1, 1$) | 26 groups | 26 groups | Epigraphic awakening ($\lambda = 1, 2, \approx \phi^2$) |
